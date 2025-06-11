@@ -22,7 +22,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
 
 1. **Clone Kho Lưu Trữ**:
    ```bash
-   git [clone https://github.com/nguyenphamducanh366/Test-2.git ]
+   git clone https://github.com/nguyenphamducanh366/Test-2.git
    cd Test2_CRUD
    ```
 
