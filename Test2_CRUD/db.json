@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "id": "7a60",
+      "name": "test",
+      "address": {
+        "ward": "So 1 Tran Cao Van",
+        "district": "Pho Hue",
+        "city": "Ha Noi"
+      },
+      "phone": "0332417843",
+      "email": "a@gmail.com",
+      "website": "https://www.reddit.com/",
+      "bank": {
+        "name": "mbbank",
+        "accountNumber": "2031039432"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn A",
+      "address": {
+        "ward": "Phường 5",
+        "district": "Quận 3",
+        "city": "TP Hồ Chí Minh"
+      },
+      "phone": "0912345678",
+      "email": "nguyenvana@example.com",
+      "website": "https://nguyenvana.com",
+      "bank": {
+        "name": "Vietcombank",
+        "accountNumber": "1234567890"
+      }
+    }
+  ]
+}
