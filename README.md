@@ -22,8 +22,8 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
 
 1. **Clone Kho Lưu Trữ**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git [clone https://github.com/yourusername/your-repo.git](https://github.com/nguyenphamducanh366/Test-2.git)
+   cd Test2_CRUD
    ```
 
 2. **Cài Đặt Các Gói Phụ Thuộc**:
@@ -31,13 +31,6 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
    npm install
    ```
 
-3. **Tạo Tệp `db.json`**:
-   - Tạo một tệp có tên `db.json` trong thư mục gốc của dự án với nội dung như sau:
-     ```json
-     {
-       "contacts": []
-     }
-     ```
 
 ## Cấu Hình JSON Server
 
@@ -61,7 +54,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
      ```
 
 2. **Truy Cập Ứng Dụng**:
-   - Mở trình duyệt và truy cập vào `http://localhost:3000` để xem ứng dụng.
+   - Mở trình duyệt và truy cập vào `[http://localhost:3000](http://localhost:5173/)` để xem ứng dụng.
 
 ## Kết Luận
 
