@@ -54,7 +54,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
      ```
 
 2. **Truy Cập Ứng Dụng**:
-   - Mở trình duyệt và truy cập vào `[http://localhost:5173]` để xem ứng dụng.
+   - Mở trình duyệt và truy cập vào `http://localhost:5173` để xem ứng dụng.
 
 ## Kết Luận
 
