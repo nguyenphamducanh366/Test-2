@@ -58,4 +58,4 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
 
 ## Kết Luận
 
-Bằng cách làm theo hướng dẫn này, bạn đã thiết lập một ứng dụng CRUD cho phép hiển thị, thêm, sửa và xóa danh bạ với các thông tin cơ bản. Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ để được hỗ trợ!
+Bằng cách làm theo hướng dẫn này, bạn đã thiết lập một ứng dụng CRUD cho phép hiển thị, thêm, sửa và xóa danh bạ với các thông tin cơ bản. 
