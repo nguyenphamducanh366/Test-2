@@ -1,6 +1,6 @@
 # Bài 2: CRUD Contact
 
-Hướng dẫn này sẽ hướng dẫn bạn cách tạo giao diện cho phép hiển thị, thêm, sửa, xóa danh bạ (contact) với các thông tin cơ bản như tên, địa chỉ, số điện thoại, email, website và thông tin ngân hàng.
+Hướng dẫn này sẽ hướng dẫn cách tạo giao diện cho phép hiển thị, thêm, sửa, xóa danh bạ (contact) với các thông tin cơ bản như tên, địa chỉ, số điện thoại, email, website và thông tin ngân hàng.
 
 ## Mục Lục
 
@@ -22,7 +22,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
 
 1. **Clone Kho Lưu Trữ**:
    ```bash
-   git [clone https://github.com/yourusername/your-repo.git](https://github.com/nguyenphamducanh366/Test-2.git)
+   git [clone https://github.com/nguyenphamducanh366/Test-2.git ]
    cd Test2_CRUD
    ```
 
@@ -54,7 +54,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt những th�
      ```
 
 2. **Truy Cập Ứng Dụng**:
-   - Mở trình duyệt và truy cập vào `[http://localhost:3000](http://localhost:5173/)` để xem ứng dụng.
+   - Mở trình duyệt và truy cập vào `[http://localhost:5173]` để xem ứng dụng.
 
 ## Kết Luận
 
